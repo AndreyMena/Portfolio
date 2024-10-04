@@ -15,6 +15,8 @@ import {
     git,
     figma,
     docker,
+    gbsys,
+    ride,
     meta,
     starbucks,
     tesla,
@@ -118,7 +120,7 @@ import {
     {
       title: "Software Developer intern",
       company_name: "GBSYS",
-      icon: starbucks,
+      icon: gbsys,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
@@ -131,7 +133,7 @@ import {
     {
       title: "Software Developer intern",
       company_name: "GBSYS",
-      icon: tesla,
+      icon: ride,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
