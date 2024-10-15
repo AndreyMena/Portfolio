@@ -29,9 +29,10 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import GhoticvaniaL1 from "./projects/GhoticvaniaL1.png";
+import GhoticvaniaL2 from "./projects/GhoticvaniaL2.png";
+import GhoticvaniaL3 from "./projects/GhoticvaniaL3.png";
+import GhoticvaniaMenu from "./projects/GhoticvaniaMenu.png";
 
 export {
   logo,
@@ -62,7 +63,8 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  GhoticvaniaL1,
+  GhoticvaniaL2,
+  GhoticvaniaL3,
+  GhoticvaniaMenu,
 };

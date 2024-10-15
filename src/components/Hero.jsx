@@ -10,18 +10,18 @@ const Hero = () => {
         top-[120px] max-w-7xl mx-auto flex flex-row items-start gap-5`}>
           <div className='flex flex-col justify-center items-center mt-5'>
             {/*Purple circle*/}
-            <div className='w-5 h-5 rounded-full bg-[#915eff]' />
+            <div className='w-5 h-5 rounded-full bg-[#35fce1]' />
             {/*Purple Line*/}
-            <div className='w-1 sm:h-80 h-40 violet-gradient' />
+            <div className='w-1 sm:h-80 h-40 violet-gradient' style={{ background: 'linear-gradient(180deg, #05ffd5, transparent)' }}  />
           </div>
 
           <div>
             {/*Name*/}
             <h1 className={`${styles.heroHeadText} 
-              text-white`}>Hi, I'm <span className='text-[#915eff]'>Andrey Mena</span>
+              text-white`}>Hi, I'm <span className='text-[#05ffd5]'>Andrey Mena</span>
             </h1>
             {/*Description*/}
-            <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+            <p className={`${styles.heroSubText} mt-2 text-[#05ffd5]`}>
               Una descripcion sobre mi aqui, <br 
               className='sm:block hidden' />lo que desarrollo, aplicaciones, lo que sea
               y mas informacion asodasd asd as da sd asd asdasdasdas dasd asdasd
