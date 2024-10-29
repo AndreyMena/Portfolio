@@ -34,6 +34,9 @@ import GhoticvaniaL2 from "./projects/GhoticvaniaL2.png";
 import GhoticvaniaL3 from "./projects/GhoticvaniaL3.png";
 import GhoticvaniaMenu from "./projects/GhoticvaniaMenu.png";
 
+import InvestigaUCR1 from "./projects/InvestigaUCR1.png";
+
+
 export {
   logo,
   logoAndrey,
@@ -67,4 +70,5 @@ export {
   GhoticvaniaL2,
   GhoticvaniaL3,
   GhoticvaniaMenu,
+  InvestigaUCR1,
 };

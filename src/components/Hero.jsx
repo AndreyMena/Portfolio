@@ -22,17 +22,23 @@ const Hero = () => {
             </h1>
             {/*Description*/}
             <p className={`${styles.heroSubText} mt-2 text-[#05ffd5]`}>
-              Una descripcion sobre mi aqui, <br 
-              className='sm:block hidden' />lo que desarrollo, aplicaciones, lo que sea
-              y mas informacion asodasd asd as da sd asd asdasdasdas dasd asdasd
+            I am a recent software engineering graduate, with experience in mobile, web and application software development.
+            <br 
+              className='sm:block hidden' />I consider myself a positive person, with a desire to work and continue learning.
+            <br />
+            <br />
+            <br />
+            *Portfolio in development
             </p>
           </div>
 
           {/*TODO: Put photo here*/}
 
       </div>
-      {/*TODO: Put 3D object here*/}
+      {/*TODO: Put 3D object here
       <ComputersCanvas />
+      */}
+
 
       {/*Go down object*/}
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>

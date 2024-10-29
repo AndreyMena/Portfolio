@@ -5,6 +5,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        primary: "#000000",
+        primary: "#07070f",
         primary: "#050816",
         secondary: "#aaa6c3",
         tertiary: "#151030",
@@ -19,7 +21,9 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        "hero-pattern": "url('/src/assets/freepik-export-20240925210250J1gw.png')",
+        "hero-pattern": "url('/src/assets/wavy_background_1_2.jpg')",
+        "hero-pattern": "url('/src/assets/herobg2.png')", 
+        "hero-pattern": "url('/src/assets/herobg.png')", 
       },
     },
   },

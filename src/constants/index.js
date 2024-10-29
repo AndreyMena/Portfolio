@@ -26,6 +26,7 @@ import {
     GhoticvaniaL2,
     GhoticvaniaL3,
     GhoticvaniaMenu,
+    InvestigaUCR1,
   } from "../assets";
   
   export const navLinks = [
@@ -45,11 +46,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Full Stack Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Application Developer",
       icon: mobile,
     },
     {
@@ -57,7 +58,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Front End Developer",
       icon: creator,
     },
   ];
@@ -125,10 +126,11 @@ import {
       iconBg: "#383E56",
       date: "Aug 2023 - Dec 2021 (5 months)",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing and maintaining web applications using Java (with Maven and Spring) and other related technologies.",
+        "Collaborate with cross-functional teams, including QA, IT, product owners, direct customers, and other developers, to create high-quality products.",
+        "Participation in meetings with direct clients for the design of functional and non-functional requirements and their subsequent conversion to user stories",
+        "Work under scrum framework",
+        "Use of technologies such as: Java Maven, Spring Boot, Oracle SQL, AWS S3, XHTML, CSS, JavaScript, JQuery, Hibernate, Java Prime Faces, Bootstrap, TomCat, Linux (debian)",
       ],
     },
     {
@@ -138,36 +140,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Mar 2023 - Jul 2023 (5 months)",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Software Developer intern",
-      company_name: "GBSYS",
-      icon: ride,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Software Developer intern",
-      company_name: "GBSYS",
-      icon: ride,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Development of mobile applications (android) mainly using React, NodeJS and other related technologies.",
+        "Publication of APKs in the play store for test environments, (apk generation with Android Studio)",
+        "Collaboration and work under agile methodologies, scrum framework with multiple scrum teams working on the project",
+        "Use of technologies such as: React, NodeJS, JavaScript, HTML, CSS, Bootstrap, sass, Google Firebase, Google Maps API, AXIOS, JSON, JQuery",
       ],
     },
   ];
@@ -218,7 +194,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: GhoticvaniaL1,
+      image: InvestigaUCR1,
       source_code_link: "https://github.com/AndreyMena/InvestigaUCR",
     },
     {
