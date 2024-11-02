@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "private": true,
+  "homepage": "https://andreymena.github.io/Portfolio/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

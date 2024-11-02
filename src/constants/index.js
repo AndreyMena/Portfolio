@@ -177,20 +177,44 @@ import {
   
   const projects = [
     {
-      name: "CITIC",
+      name: "InvestigaUCR",
       description:
-        "Description of citic project",
+        "The Centro de Investigaciones en Tecnologías de la Información y Comunicación (CITIC) from the Universidad de Costa Rica (UCR) has the objective of promoting the research in ICT related areas. This project consists of a website that meets the needs of researchers through a page where they can manage research groups, publications, news, statistics, people and more.",
       tags: [
         {
-          name: "react",
+          name: "C#",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: ".NET Core",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "SQL (MSSQL)",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Bootstrap",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Mudblazor",
+          color: "green-text-gradient",
+        },
+        {
+          name: "JQuery",
           color: "pink-text-gradient",
         },
       ],
@@ -198,20 +222,20 @@ import {
       source_code_link: "https://github.com/AndreyMena/InvestigaUCR",
     },
     {
-      name: "CITIC",
+      name: "Video Game Engine",
       description:
-        "Description of citic project",
+        "This project is a video game engine built in C++ that allows you to create 2D video games. Through scripting with Lua we can modify the characteristics of the video game, adding enemies in the coordinates we want, with different sizes, powers, sprites, and characteristics according to a series of generic components contained in the engine. In addition, we can also modify the conditions of the map and the powers of our main character.",
       tags: [
         {
-          name: "react",
+          name: "C++",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Lua",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "SDL",
           color: "pink-text-gradient",
         },
       ],
