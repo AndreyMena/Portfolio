@@ -243,25 +243,25 @@ import {
       source_code_link: "https://github.com/AndreyMena/GameDevelopment/tree/main/Tareas/Tarea03_game_engine",
     },
     {
-      name: "CITIC",
+      name: "Video Game GhoticVania",
       description:
-        "Description of citic project",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
+        "This game was created with the game engine created previously, it is a 2D game based on GhoticVania resources, it consists of 3 different levels with custom maps, different characters set in each scenario and special abilities.",
+        tags: [
+          {
+            name: "C++",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "Lua",
+            color: "green-text-gradient",
+          },
+          {
+            name: "SDL",
+            color: "pink-text-gradient",
+          },
       ],
       image: GhoticvaniaL3,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/AndreyMena/GameDevelopment/tree/main/Tareas/Tarea03_game_engine",
     },
   ];
   
